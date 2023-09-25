@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "name": "full-backend-0",
+  "version": "1.0.0",
+  "description": "tu lam de hoc",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
